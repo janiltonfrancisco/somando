@@ -80,5 +80,6 @@ jButton2ActionPerformed: Limpa os campos
 
 jButton3ActionPerformed: Encerra o aplicativo
 
-Captura de Tela
-(Inserir imagem da interface gráfica aqui, se disponível)
+---Programa em execução:
+
+![Image](https://github.com/user-attachments/assets/dc92a6f3-b36e-435a-a8e8-7fe86c7812bc)
